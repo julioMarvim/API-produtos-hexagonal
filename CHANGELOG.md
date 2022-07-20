@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/julioMarvim/API-produtos-hexagonal/compare/v1.0.0...v1.0.1) (2022-07-20)
+
+
+### Bug Fixes
+
+* **repo:** corrige identação ([8eb90c9](https://github.com/julioMarvim/API-produtos-hexagonal/commit/8eb90c969b55db201f99265e0c7a6e5a639c714b))
+
+
+
 # [1.0.0](https://github.com/julioMarvim/API-produtos-hexagonal/compare/v0.1.0...v1.0.0) (2022-07-20)
 
 
