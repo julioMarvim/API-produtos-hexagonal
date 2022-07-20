@@ -52,4 +52,5 @@ public class ProdutoRepository implements ProdutoRepositoryPort {
     public void deletarTodos() {
         springProdutoRepository.deleteAllInBatch();
     }
+
 }
